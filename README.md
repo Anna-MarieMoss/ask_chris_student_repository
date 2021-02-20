@@ -14,7 +14,7 @@ Now is the time to practice your conditional statements! Chris is very wise. But
 
 Using a switch statement, set up the 8 answers that Chris will respond with. For example, if the random number is 0, reassign the 'answer.innerText' to "Yes! Go for it" etc, until you have all 8 responses.
 
-0 = 'Yes! Go for it'
+0 = 'Yes! Go for it';
 1 = 'It is certain';
 2 = 'Hell yer!';
 3 = 'Cannot predict now';

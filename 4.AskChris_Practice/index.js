@@ -8,12 +8,20 @@ let img = document.querySelector('img');
 // Function to be called when the 'Click here to ask your question!' button is clicked.
 function handleClick() {
   let question = prompt('Ask away! and I will tell you either yay or nay!');
-  //   Displays question text on the screen
-  input.innerText = question;
-  //   Generates a random number between 0 - 7
-  let randomNumber = Math.floor(Math.random() * 7);
+  input.innerText = question; //   Displays question text on the screen
+  let randomNumber = Math.floor(Math.random() * 7); //   Generates a random number between 0 - 7
 
-  // TASK 2 - SWITCH STATEMENT //
+  // TASK 2 - SWITCH STATEMENT (See Readme file for instructions)
+  // Nb - Instead of using console.log, each statement should be displayed on the app by reassigning the 'answer.innerText' (see how below).
+
+  // e.g.
+  // switch(randomNumber){
+  //   case 'blahblah':
+  //    answer.innerText = 'This string will appear on the website'
+  //     break;
+  //   ....
+  // }
+
   /* insert code here */
   // .
   // .
@@ -21,7 +29,7 @@ function handleClick() {
   // .
   // .
 
-  // TASK 3 - IF STATEMENTS and COMPARISON OPERATORS //
+  // TASK 3 - IF STATEMENTS and COMPARISON OPERATORS (See Readme file for instructions) //
   // Add a condition that is triggered if the random number is less than 3
 
   /* insert code here */ {

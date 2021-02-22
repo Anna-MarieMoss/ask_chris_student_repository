@@ -21,7 +21,7 @@ function handleClick() {
   // answer.innerText = 'This string will appear on the website'
   // }
 
-  /* Add code in here */
+  /* insert code here */
   // .
   // .
   // .

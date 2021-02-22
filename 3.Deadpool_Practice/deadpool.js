@@ -27,14 +27,6 @@ function handleClick() {
   // .
   // .
   // .
-
-  if (country === 'UK' && age >= 15) {
-    answer.innerText = 'This film is rated 15. Come on in dude!';
-  } else if (country === 'USA' && age >= 18) {
-    answer.innerText = 'This film is rated R. Come on in dude!';
-  } else {
-    answer.innerText = `No can do compadre. You can't come in`;
-  }
 }
 
 question.addEventListener('click', handleClick);

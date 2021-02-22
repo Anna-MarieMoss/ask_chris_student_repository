@@ -15,24 +15,29 @@ function handleClick() {
 
   // TASK 2 - SWITCH STATEMENT //
   /* insert code here */
+  // .
+  // .
+  // .
+  // .
+  // .
 
   // TASK 3 - IF STATEMENTS and COMPARISON OPERATORS //
   // Add a condition that is triggered if the random number is less than 3
 
   /* insert code here */ {
-    img.src = './Chris_images/happy_chris.jpg';
+    img.src = '../Chris_images/happy_chris.jpg';
   }
 
   // Add a condition that is triggered if random number is equal to either 3 or 6
 
   /* insert code here */ {
-    img.src = './Chris_images/nonononono_chris.jpg';
+    img.src = '../Chris_images/nonononono_chris.jpg';
   }
 
   // Add a final option that is triggered if none of the other conditions are met.
 
   /* insert code here */ {
-    img.src = './Chris_images/areyousure_chris.jpg';
+    img.src = '../Chris_images/areyousure_chris.jpg';
   }
 }
 

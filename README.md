@@ -1,6 +1,9 @@
-# ask_chris_student_repository
+# CONDITIONAL STATEMENTS TRAINING by Anna-Marie Moss
 
-Github files for my soc training session
+Github files for training session including, code-a-long pages, class exercises and examples.
+At the end of the session, attendees will move on to complete the Ask Chris Challenge cited below.
+
+# ASK CHRIS CHALLENGE - see folder 4.AskChris_Practice\index.js
 
 # Task 1
 
@@ -14,7 +17,7 @@ Now is the time to practice your conditional statements! Chris is very wise. But
 
 Using a switch statement, set up the 8 answers that Chris will respond with. For example, if the random number is 0, reassign the 'answer.innerText' to "Yes! Go for it" etc, until you have all 8 responses.
 
-0 = 'Yes! Go for it';
+0 = 'Yes! Go for it'
 1 = 'It is certain';
 2 = 'Hell yer!';
 3 = 'Cannot predict now';
@@ -32,11 +35,11 @@ Every time Chris gives his answer, let's change his picture to something which r
 
 Using an if/else statement and what you've learnt today about 'comparison operators' (<, >, <=, >=, ===, !==), complete the code blocks to reassign the img.src as shown below.
 
-Yes responses (numbers 0, 1 & 2 ) -
+Yes responses (numbers 0, 1 & 2 )
 img.src = './Chris_images/happy_chris.jpg
 
-Unsure (number 3 & 4) -
+Unsure (number 3 & 4)
 img.src = './Chris_images/nonononono_chris.jpg
 
-No respones (numbers 5, 6, & 7) -
+No respones (numbers 5, 6, & 7)
 img.src = './Chris_images/areyousure_chris.jpg

@@ -3,6 +3,16 @@
 // Example 1: Deadpool
 // In the UK Deadpool was rated 15, yet in the USA it was given an R certificate.
 // Using an if statement console log either 15 certificate or 18 rating based on the country value.
+let country = 'USA';
+
+if (country === 'UK') {
+  console.log('This film is rated 15');
+}
+
+// if (country === 'USA')
+else {
+  console.log('This film is rated R');
+}
 // .
 // .
 // .
